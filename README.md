@@ -251,12 +251,12 @@ Managers oversee business operations with access to analytics and inventory mana
 
 ## 🚀 Future Enhancements
 
-- [ ] Online booking system
-- [ ] Email notification system
-- [ ] Mobile application
-- [ ] Advanced reporting dashboard
-- [ ] Customer loyalty program
-- [ ] Integration with payment gateways
+-  Online booking system
+-  Email notification system
+-  Mobile application
+-  Advanced reporting dashboard
+- Customer loyalty program
+- Integration with payment gateways
 
 ## 🤝 Contributing
 
@@ -266,13 +266,6 @@ This project was developed as a final assignment for the Java Object-Oriented Pr
 
 This project is developed for educational purposes as part of a university coursework.
 
-## 👨‍💻 Developer
+Project Focus : *This Cinema Center Management System demonstrates practical application of Java programming concepts, database design, and user interface development in a real-world scenario.*
 
-**Toprak Kamburoğlu**
-- 📧 Email: toprakkamburoglu@gmail.com
-- 🎓 Student at Kadir Has University - Computer Engineering
-- 📱 Phone: 0535 068 89 01
-
----
-
-*This Cinema Center Management System demonstrates practical application of Java programming concepts, database design, and user interface development in a real-world scenario.*
+For technical support or collaboration opportunities, please contact toprakkamburoglu@gmail.com
