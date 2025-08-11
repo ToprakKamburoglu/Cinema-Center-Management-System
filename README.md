@@ -69,68 +69,87 @@ The system uses a MySQL database with the following key tables:
 
 Administrators have full system control with comprehensive management capabilities.
 
-<div align="center">
+<br>
 
-### Admin Dashboard
 ![Admin Dashboard](images/adminpage1.png)
 
-### Movie Management
-<div style="display: flex; justify-content: space-between;">
-  <img src="images/adminaddmovie2.png" alt="Add Movie" width="45%">
-  <img src="images/adminupdatemovie3.png" alt="Update Movie" width="45%">
-</div>
+<br>
 
-### Schedule Management
-<div style="display: flex; justify-content: space-between;">
-  <img src="images/admincreateschedule4.png" alt="Create Schedule" width="45%">
-  <img src="images/adminupdateschedule5.png" alt="Update Schedule" width="45%">
-</div>
+![Add Movie](images/adminaddmovie2.png)
 
-### Refund Management
-<div style="display: flex; justify-content: space-between;">
-  <img src="images/adminproductrefund6.png" alt="Product Refund" width="45%">
-  <img src="images/adminticketrefund7.png" alt="Ticket Refund" width="45%">
-</div>
+<br>
 
-</div>
+![Update Movie](images/adminupdatemovie3.png)
+
+<br>
+
+![Create Schedule](images/admincreateschedule4.png)
+
+<br>
+
+![Update Schedule](images/adminupdateschedule5.png)
+
+<br>
+
+![Product Refund](images/adminproductrefund6.png)
+
+<br>
+
+![Ticket Refund](images/adminticketrefund7.png)
+
+<br>
 
 ## 💰 Cashier Interface
 
 Cashiers handle customer transactions and ticket sales efficiently.
 
-<div align="center">
+<br>
 
-### Cashier Workflow
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-  <img src="images/cashierpage1.png" alt="Cashier Dashboard" style="width: 100%;">
-  <img src="images/cashierview2.png" alt="Movie Selection" style="width: 100%;">
-  <img src="images/cashierapprove3.png" alt="Booking Approval" style="width: 100%;">
-  <img src="images/cashierpayment4.png" alt="Payment Processing" style="width: 100%;">
-</div>
+![Cashier Dashboard](images/cashierpage1.png)
 
-### Product Sales
+<br>
+
+![Movie Selection](images/cashierview2.png)
+
+<br>
+
+![Booking Approval](images/cashierapprove3.png)
+
+<br>
+
+![Payment Processing](images/cashierpayment4.png)
+
+<br>
+
 ![Cashier Products](images/cashierproducts5.png)
 
-</div>
+<br>
 
 ## 👔 Manager Interface
 
 Managers oversee business operations with access to analytics and inventory management.
 
-<div align="center">
+<br>
 
-### Manager Dashboard
 ![Manager Dashboard](images/managerpage1.png)
 
-### Business Operations
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-  <img src="images/managerinventory2.png" alt="Inventory Management" style="width: 100%;">
-  <img src="images/manageruser3.png" alt="User Management" style="width: 100%;">
-  <img src="images/managerpricing4.png" alt="Pricing Management" style="width: 100%;">
-  <img src="images/managerrevenue5.png" alt="Revenue Analytics" style="width: 100%;">
-</div>
+<br>
 
-</div>
+![Inventory Management](images/managerinventory2.png)
+
+<br>
+
+![User Management](images/manageruser3.png)
+
+<br>
+
+![Pricing Management](images/managerpricing4.png)
+
+<br>
+
+![Revenue Analytics](images/managerrevenue5.png)
+
+<br>
 
 ## ⚙️ Installation & Setup
 
