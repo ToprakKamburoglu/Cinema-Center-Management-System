@@ -1,8 +1,8 @@
-## Cinema Center Management System
+## 🎬 Cinema Center Management System
 
 A comprehensive cinema management application built with **Java**, **JavaFX**, and **MySQL**. This system provides role-based access control for three types of users: Admin, Manager, and Cashier, each with specific functionalities to manage cinema operations efficiently.
 
-## 🎬 Project Overview
+## 🧩 Project Overview
 
 The Cinema Center Management System is designed to streamline cinema operations by providing dedicated interfaces for different user roles. The system manages movies, schedules, seats, products, customers, and transactions through an intuitive JavaFX interface.
 
