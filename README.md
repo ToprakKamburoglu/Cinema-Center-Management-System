@@ -268,4 +268,4 @@ This project is developed for educational purposes as part of a university cours
 
 Project Focus : This Cinema Center Management System demonstrates practical application of Java programming concepts, database design, and user interface development in a real-world scenario.
 
-For technical support or collaboration opportunities, please contact toprakkamburoglu@gmail.com
+For technical support or collaboration opportunities, contact toprakkamburoglu@gmail.com
