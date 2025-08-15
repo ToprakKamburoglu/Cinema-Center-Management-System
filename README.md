@@ -266,6 +266,6 @@ This project was developed as a final assignment for the Java Object-Oriented Pr
 
 This project is developed for educational purposes as part of a university coursework.
 
-Project Focus : *This Cinema Center Management System demonstrates practical application of Java programming concepts, database design, and user interface development in a real-world scenario.*
+Project Focus : This Cinema Center Management System demonstrates practical application of Java programming concepts, database design, and user interface development in a real-world scenario.
 
 For technical support or collaboration opportunities, please contact toprakkamburoglu@gmail.com
