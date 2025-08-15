@@ -264,7 +264,7 @@ This project was developed as a final assignment for the Java Object-Oriented Pr
 
 ## 📝 License
 
-This project is developed for educational purposes as part of a university coursework.
+This project is developed for educational purposes as part of a university coursework and it is also licensed under the [MIT License](LICENSE).
 
 Project Focus : This Cinema Center Management System demonstrates practical application of Java programming concepts, database design, and user interface development in a real-world scenario.
 
