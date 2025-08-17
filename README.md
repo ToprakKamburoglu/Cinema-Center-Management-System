@@ -59,7 +59,7 @@ The system uses a MySQL database with the following key tables:
 - **Sessions**: Movie screening schedules
 - **Seats**: Seat arrangement and availability
 - **Customers**: Customer information
-- **Employees**: User accounts with role-based access
+- **Employees**: User accounts with role-based access and hashed passwords
 - **Products**: Snacks, beverages, and merchandise
 - **ShoppingCart**: Shopping cart functionality
 - **Invoices**: Transaction records
