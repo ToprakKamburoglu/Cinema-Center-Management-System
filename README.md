@@ -1,6 +1,8 @@
 ## 🎬 Cinema Center Management System - Aflix
 
-A comprehensive cinema management application built with **Java**, **JavaFX**, and **MySQL**. This system provides role-based access control for three types of users: Admin, Manager, and Cashier, each with specific functionalities to manage cinema operations efficiently.
+A comprehensive cinema management application built with **Java**, **JavaFX**, and **MySQL**. This system provides role-based access control for three types of users: Admin, Manager, and Cashier, each with specific functionalities to manage cinema operations efficiently. 
+<br>
+Group Repository : https://github.com/YigitAvar/Cinema-Center-Management-OOP12
 
 ## 🧩 Project Overview
 
